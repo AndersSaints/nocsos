@@ -47,11 +47,11 @@ if (!isset($_SESSION['username'])) {
     </nav>
 
     <div class="contact-form mt-5">
-        <form method="post" action="send.php" class="form-horizontal" role="form" align="center">
+        <form method="post" action="send.php" class="form-horizontal" role="form">
             <div class="form-group" align="center">               
                 <div class="col-sm-3">
                     <textarea class="form-control" name="message" rows="5"></textarea>
-                    <input href="send.php" type="submit" name="send" id="send" value="Send" class="btn btn-primary mt-2" />
+                    <input type="submit" name="send" id="send" value="Send" class="btn btn-primary mt-2" />
                 </div>
             </div>
         </form>
