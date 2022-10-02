@@ -51,7 +51,7 @@ if (!isset($_SESSION['username'])) {
             <div class="form-group" align="center">               
                 <div class="col-sm-3">
                     <textarea class="form-control" name="message" rows="5"></textarea>
-                    <input type="submit" name="send" id="send" value="Send" class="btn btn-primary mt-2" />
+                    <input href="send.php" type="submit" name="send" id="send" value="Send" class="btn btn-primary mt-2" />
                 </div>
             </div>
         </form>
