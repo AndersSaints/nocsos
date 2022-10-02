@@ -56,7 +56,7 @@ if (isset($_POST['submit'])) {
 	<title>Group Messenger</title>
 </head>
 <body>
-	<div class="container">
+	<div class="container" id="form-register">
 		<form action="" method="POST" class="login-email">
             <p class="login-text" style="font-size: 2rem; font-weight: 800;">Register</p>
 			<div class="input-group">

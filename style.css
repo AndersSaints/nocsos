@@ -27,6 +27,16 @@ body {
     margin-left: -100px;
 }
 
+#form-register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 25%;
+    margin-top: -25px;
+    left: 45%;
+    margin-left: -100px;
+}
 
 .container {
     width: 400px;
@@ -45,6 +55,7 @@ body {
     margin-bottom: 20px;
     display: block;
     text-transform: capitalize;
+    
 }
 
 .container .login-social {
