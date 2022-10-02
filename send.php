@@ -17,5 +17,5 @@
 					VALUES ('$user', '$date', '$message')";
 			$result = mysqli_query($conn, $sql);
 
-    echo '<script>if (confirm("Your message has been sent!") == true) {   window.location.href = "http://localhost/portal/"; }</script>';
+    echo '<script>if (confirm("Your message has been sent!") == true) {   window.location.href = "https://telinfo.herokuapp.com/"; }</script>';
 ?>
