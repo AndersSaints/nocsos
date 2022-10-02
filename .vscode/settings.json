@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,   
+    "vscode_custom_css.imports": ["file:///E:/ImportantStuff/fonts/style.css"],
+    "editor.fontWeight": "normal",
+    "workbench.colorTheme": "Operator Mono Dark Theme",
+}
+
