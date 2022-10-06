@@ -1,10 +1,10 @@
 <?php 
 header("content-type: text/html;charset=utf-8");
 
-$server = "eporqep6b4b8ql12.chr7pe7iynqr.eu-west-1.rds.amazonaws.com";
-$user = "wvs884n8xn083q1p";
-$pass = "baxihf8lv3ft9elt";
-$database = "rpcm62bzjpvgz89r";
+$server = "eu-cdbr-west-03.cleardb.net";
+$user = "b3b2d3e787b7a7";
+$pass = "85be2a1c";
+$database = "heroku_35df51f09fc0ef8";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
