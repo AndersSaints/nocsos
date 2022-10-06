@@ -38,7 +38,7 @@ if (isset($_POST['submit'])) {
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>Group Messenger</title>
+	<title>NOC SOS</title>
 </head>
 <body>
 	<div class="container" id="form-login">
